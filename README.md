@@ -22,3 +22,5 @@ This project demonstrates my ability to work with real-world datasets, apply SQL
 * Postgre SQL
 * PgAdmin4
 
+Schema- Music Store Database  
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/49247364/247591160-eed556a9-0347-45d9-a372-b1b0ded17615.png)
